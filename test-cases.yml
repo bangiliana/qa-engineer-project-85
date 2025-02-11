@@ -23,7 +23,6 @@
   prerequisites: |
     открыта главная страница сайта
   test-data: |
-    Тестовые данные
     no data
   steps:
     - нажать на значок конверта в поле online players
